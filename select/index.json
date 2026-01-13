@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Lone Digger",
+  "base_artist": "キャラヴァン・パレス",
+  "createdAt": "2026-01-13T06:07:05.464652Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lone Digger",
+      "artist": "Caravan Palace",
+      "has_synced": true,
+      "path": "select/01_Lone_Digger_Caravan_Palace.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lone Digger (Explicit)",
+      "artist": "Caravan Palace",
+      "has_synced": true,
+      "path": "select/02_Lone_Digger_(Explicit)_Caravan_Palace.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lone Digger",
+      "artist": "Caravan Palace",
+      "has_synced": true,
+      "path": "select/03_Lone_Digger_Caravan_Palace.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lone Digger",
+      "artist": "Caravan Palace",
+      "has_synced": true,
+      "path": "select/04_Lone_Digger_Caravan_Palace.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lone Digger",
+      "artist": "CaravanPalace",
+      "has_synced": true,
+      "path": "select/05_Lone_Digger_CaravanPalace.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lone Digger",
+      "artist": "Caravan Palace",
+      "has_synced": false,
+      "path": "select/pl_01_Lone_Digger_Caravan_Palace.txt"
+    }
+  ]
+}
